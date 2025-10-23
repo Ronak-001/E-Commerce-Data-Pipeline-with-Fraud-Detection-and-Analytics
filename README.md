@@ -176,7 +176,6 @@ Partitioning improve read performance.
 
 Modularized PySpark scripts for easier maintenance and testing.
 
-
 Fault-tolerant and idempotent design with checkpointing in Databricks.
 
 
@@ -186,4 +185,4 @@ Expand data sources to include returns and refunds pipelines.
 
 Build Superset / Power BI dashboards for advanced reporting.
 
-Implement real-time streaming using databricks paid platform 
+Implement real-time streaming using databricks paid platform.
